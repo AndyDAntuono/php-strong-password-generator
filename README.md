@@ -22,3 +22,5 @@ NUMERO DI PUSH MINIMO: 7
 /*SOLUZIONE*/
 
 - creo innanzitutto una funzione, in index.php, che mi generi una password randomica;
+- conclusa la parte logica delle scrittura del codice, procedo con l'impaginazione;
+- assicuratomi che l'obbiettivo della milestone 1 sia raggiunto, procedo per eseguire quello della milestone 2;
