@@ -20,3 +20,5 @@ Ricordatevi di fare sempre il file README.md
 NUMERO DI PUSH MINIMO: 7
 
 /*SOLUZIONE*/
+
+- creo innanzitutto una funzione, in index.php, che mi generi una password randomica;
